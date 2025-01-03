@@ -6,8 +6,13 @@ Hi! I’m **Grace Madikaegbu**, a passionate **software engineer** and former **
 
 - Python & Django
 - JavaScript & React
+- MangoDB
 - SQL
 - HTML/CSS
+- Agile and scrum project management
+- Testing and debugging
+- Version control
+- Cloud computing
 
 ## My Focus
 
